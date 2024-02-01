@@ -17,7 +17,10 @@
    An app made for taking, updating, and removing notes
 ## Usage
 
-  This app can be used through the deployed website
+  This app can be used through the <a href="https://pommerpie-note-taker-696f00c06ba5.herokuapp.com/">deployed website</a>
+
+  <img src="Develop\screenshot.png"> </img>
+
 ## License
 
   MIT, https://opensource.org/licenses/MIT
